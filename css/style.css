@@ -1,0 +1,51 @@
+body {
+  background-color: #2B2B2B;
+}
+
+.box {
+  width: 600px;
+  min-height: 200px;
+  overflow: hidden;
+  background-color: lavender;
+  border: solid 1px silver;
+  box-shadow: 0px 3px 5px 1px silver;
+  margin: 100px auto 30px auto;
+  padding-bottom: 30px;
+}
+
+#author {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#quote {
+  text-align: center;
+  text-size: 40;
+  margin: 30px;
+  font-family: 'Cinzel', serif;
+  font-size: 32px;
+}
+
+#name {
+  text-align: right;
+  margin: 30px;
+  font-family: 'Cinzel', serif;
+  font-size: 18px;
+}
+
+#new_quote_button {
+  margin-right: 30px;
+  align: right;
+  float: right;
+  font-family: 'Cinzel', serif;
+  padding: 10px;
+}
+
+#profileLink {
+  text-decoration: none;
+  color: #33FFFF;
+}
+
+#author {
+  color: white;
+}
