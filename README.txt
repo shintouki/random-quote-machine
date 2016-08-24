@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/InstantMizu/pen/bpqbXN.
+Random Quote Machine
 
- 
+https://shintouki.github.io/random-quote-machine/
