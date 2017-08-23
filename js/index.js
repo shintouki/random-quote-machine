@@ -26,8 +26,7 @@ $(document).ready(function() {
     ],
     [
       "Elbert Hubbard", "Do not take life too seriously. You will never get out of it alive."
-    ],
-    [
+    ], [
       "Margaret Mead", "Always remember that you are absolutely unique. Just like everyone else."
     ],
     [
