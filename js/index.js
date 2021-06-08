@@ -26,7 +26,8 @@ $(document).ready(function() {
     ],
     [
       "Elbert Hubbard", "Do not take life too seriously. You will never get out of it alive."
-    ], [
+    ],
+    [
       "Margaret Mead", "Always remember that you are absolutely unique. Just like everyone else."
     ],
     [
@@ -86,11 +87,9 @@ $(document).ready(function() {
     [
       "Mitch Hedberg", "My fake plants died because I did not pretend to water them."
     ],
-
     [
       "Aubrey Adamczyk", "Misha copied my chair."
     ]
-
   ];
 
   //document.getElementById("new_quote_button").addEventListener("click", createTweetButton);
