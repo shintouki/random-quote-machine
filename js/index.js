@@ -85,6 +85,10 @@ $(document).ready(function() {
     ],
     [
       "Mitch Hedberg", "My fake plants died because I did not pretend to water them."
+    ],
+
+    [
+      "Aubrey Adamczyk", "Misha copied my chair."
     ]
 
   ];
